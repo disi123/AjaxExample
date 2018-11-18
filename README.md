@@ -1,2 +1,2 @@
-# PHPSelectDataExample
-Select Data Example
+# Ajax Update Data Example
+Ajax Update Data Example
